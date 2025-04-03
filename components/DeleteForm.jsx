@@ -1,5 +1,5 @@
 import React from 'react'
-import {deleteTask} from '@/utils/actions'
+import {deleteTask} from '@/lib/actions/actions'
 
 const DeleteForm = ({id}) => {
   return <form action={deleteTask}>

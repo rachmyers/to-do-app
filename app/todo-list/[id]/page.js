@@ -1,4 +1,4 @@
-import { getTask } from '@/utils/actions'
+import { getTask } from '@/lib/actions/actions'
 import Link from 'next/link'
 import React from 'react'
 import EditForm from '@/components/EditForm'

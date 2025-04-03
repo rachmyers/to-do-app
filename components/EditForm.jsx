@@ -1,5 +1,5 @@
 import React from 'react'
-import {editTask} from '@/utils/actions'
+import {editTask} from '@/lib/actions/actions'
 
 const EditForm = ({task}) => {
 
